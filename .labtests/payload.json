@@ -1,0 +1,46 @@
+{
+  "numTotalTestSuites": 2,
+  "numPassedTestSuites": 2,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 2,
+  "numPassedTests": 2,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1696688307038,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "Arrow Functions Lab"
+          ],
+          "fullName": " Arrow Functions Lab greet arrow function should be exported",
+          "status": "passed",
+          "title": "greet arrow function should be exported",
+          "duration": 4,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "Arrow Functions Lab"
+          ],
+          "fullName": " Arrow Functions Lab greet arrow function should return the correct greeting",
+          "status": "passed",
+          "title": "greet arrow function should return the correct greeting",
+          "duration": 1,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1696688308625,
+      "endTime": 1696688308630,
+      "status": "passed",
+      "message": "",
+      "name": "/home/damner/code/.labtests/nodecheck.test.js"
+    }
+  ]
+}
